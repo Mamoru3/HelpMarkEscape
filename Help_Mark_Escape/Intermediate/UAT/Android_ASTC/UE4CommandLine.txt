@@ -1,0 +1,1 @@
+../../../Help_Mark_Escape/Help_Mark_Escape.uproject  /Game/Levels/StartScreen -Messaging -SessionId=51C4370348E753083424318C2F26C528 -SessionOwner="aless" -SessionName="Launch On Device" -iterative
